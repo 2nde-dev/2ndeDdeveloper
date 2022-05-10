@@ -1,7 +1,5 @@
 <h1>Hi, I'm Babatunde! <br/><a href="https://github.com/2ndeDdeveloper">Webdeveloper</a></h1>
-<h1>
-  <a href="https://www.linkedin.com/in/babatunde-ayoade-453674238/</a>
-</h1>
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
