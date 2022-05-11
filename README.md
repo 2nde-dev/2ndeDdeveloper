@@ -1,4 +1,4 @@
-<h1>Hi, I'm Babatunde! <br/><a href="https://github.com/2ndeDdeveloper">Webdeveloper</a></h1>
+<h1>Hi, I'm Babatunde! <br/><a href="https://github.com/2ndeDdeveloper">Web Developer</a></h1>
 
 
 <h2>👨‍💻 My Projects:</h2>
