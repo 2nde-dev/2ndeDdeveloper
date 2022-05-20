@@ -16,9 +16,9 @@
 [<img align="left" alt="2ndeDdeveloper | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="2ndeDdeveloper | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/2ndeDdeveloper/
+[twitter]: https://twitter.com/2ndeDev/
                                                                                                                                        
-[instagram]: https://www.instagram.com/2ndeddeveloper/
+[instagram]: https://www.instagram.com/2ndedev/
                                                                                                                                        
 [linkedin]: https://www.linkedin.com/in/babatunde-ayoade-453674238/
 
